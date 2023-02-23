@@ -4,7 +4,7 @@ This is for touching sensor
 # Dependencies:
 QT
 
-# In VS 
+# VS Settings
 ## QT Project Settings - QT Modules
 core; 
 gui;
