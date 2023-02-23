@@ -6,12 +6,12 @@ QT
 
 # VS Settings:
 ## QT Project Settings - QT Modules
-core; 
-gui;
+core; <br />
+gui; <br />
 
 ## Linker - General - Additional Library Directories
 path of QT lib folder
 
 ## Linker - Input - Additional Dependencies
-Qt6OpenGL.lib
+Qt6OpenGL.lib <br />
 Qt6OpenGLWidgets.lib
